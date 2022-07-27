@@ -47,17 +47,8 @@ color:#11999E;
 
 }
 
-.top-cloud{
-    position:absolute;
-   right: 100px;
-   top:70px;
-}
 
-.bottom-cloud{
-    position: absolute;
-    left:350px;
-    bottom: 300px;
-}
+
 
 .skill-row{
     width: 50%;
